@@ -1,6 +1,5 @@
 {
   "name": "sentry-discord",
-  "alias": "sentry-discord",
   "version": 2,
   "builds": [
     {
@@ -9,6 +8,6 @@
     }
   ],
   "env": {
-    "WEBHOOK": "@sentry-webhook"
+    "WEBHOOK": "https://discordapp.com/api/webhooks/527581635223486484/x7iPnnshJskOAtt5sAZmx14P98eBNjolk-DlQzgY1_imnO8oSAttwmMRHy6SB0ReRGAC"
   }
 }
